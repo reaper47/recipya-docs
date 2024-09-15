@@ -1,6 +1,6 @@
 ---
 title: 部署站点
-prev: /docs/guide/shortcodes
+prev: /docs/shortcodes
 next: /docs/advanced
 ---
 

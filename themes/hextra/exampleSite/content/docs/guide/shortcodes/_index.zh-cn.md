@@ -1,8 +1,8 @@
 ---
 title: 短代码
 weight: 9
-prev: /docs/guide/diagrams
-next: /docs/guide/shortcodes/callout
+prev: /docs/diagrams
+next: /docs/shortcodes/callout
 ---
 
 [Hugo 短代码](https://gohugo.io/content-management/shortcodes/) 是你的内容文件中调用内置或自定义模板的简单片段。

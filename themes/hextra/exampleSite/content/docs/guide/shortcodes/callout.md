@@ -3,7 +3,7 @@ title: Callout Component
 linkTitle: Callout
 aliases:
 - callouts
-prev: /docs/guide/shortcodes
+prev: /docs/shortcodes
 ---
 
 A built-in component to show important information to the reader.

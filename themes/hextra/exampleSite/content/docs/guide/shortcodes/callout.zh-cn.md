@@ -2,7 +2,7 @@
 title: 标注
 aliases:
 - callouts
-prev: /docs/guide/shortcodes
+prev: /docs/shortcodes
 ---
 
 向读者显示重要信息的内置组件。

@@ -10,7 +10,7 @@ Les versions portables et autonomes sont disponibles sur la [page des versions](
 La [version nocturne](https://github.com/reaper47/recipya/releases/tag/nightly) est mise à jour tous les soirs si la branche principale a de nouveaux commits.
 
 Tout d’abord, téléchargez la version du logiciel que vous souhaitez installer compatible avec votre système et extrayez le fichier zip.
-Veuillez consulter le tableau des [plateformes prises en charge](/guide/fr/docs/installation/system-requirements) si vous ne savez pas quel fichier télécharger.
+Veuillez consulter le tableau des [plateformes prises en charge](/fr/docs/installation/system-requirements) si vous ne savez pas quel fichier télécharger.
 
 Ensuite, démarrez le serveur en ouvrant une invite de commande dans le dossier et exécutez la commande suivante.
 L'application effectuera une configuration de démarrage unique si ce n'est déjà fait.

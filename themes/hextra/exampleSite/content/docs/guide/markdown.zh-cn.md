@@ -66,7 +66,7 @@ Hugo 支持 [Markdown](https://en.wikipedia.org/wiki/Markdown) 来书写内容�
 ### 代码块
 
 {{< cards >}}
-  {{< card link="../../guide/syntax-highlighting" title="Syntax Highlighting" icon="sparkles" >}}
+  {{< card link="../../syntax-highlighting" title="Syntax Highlighting" icon="sparkles" >}}
 {{< /cards >}}
 
 ### 列表

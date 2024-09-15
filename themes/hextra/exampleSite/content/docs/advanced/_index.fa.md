@@ -1,7 +1,7 @@
 ---
 linkTitle: پیشرفته
 title: موضوعات پیشرفته
-prev: /docs/guide/shortcodes/steps
+prev: /docs/shortcodes/steps
 next: /docs/advanced/multi-language
 ---
 

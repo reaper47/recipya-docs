@@ -1,6 +1,6 @@
 ---
 title: Deploy Site
-prev: /docs/guide/shortcodes
+prev: /docs/shortcodes
 next: /docs/advanced
 ---
 

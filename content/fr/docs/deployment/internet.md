@@ -41,7 +41,7 @@ Le bloc suivant montre le minimum requis dans le fichier de configuration d'Apac
 [Caddy](https://caddyserver.com/) est un serveur web open source léger et extensible qui obtient et renouvelle automatiquement les certificats TLS pour tous vos sites.
 
 Le bloc suivant montre le minimum requis dans le fichier de configuration de Caddy, nommé Caddyfile, pour héberger Recipya sur le réseau.
-Si vous utilisez Linux, assurez-vous que Recipya s'exécute en tant que [service](/guide/docs/deployment/local-network/#linux).
+Si vous utilisez Linux, assurez-vous que Recipya s'exécute en tant que [service](/docs/deployment/local-network/#linux).
 
 ```text
 $ sudo cat /etc/caddy/Caddyfile

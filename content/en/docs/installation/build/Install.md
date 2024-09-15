@@ -11,7 +11,7 @@ The [nightly build](https://github.com/reaper47/recipya/releases/tag/nightly) is
 has new commits.
 
 First, download the version of the software you wish to install compatible with your system, and extract the zip file. 
-Please consult the [supported platforms](/guide/docs/installation/system-requirements) table if you are unsure which file to download.
+Please consult the [supported platforms](/docs/installation/system-requirements) table if you are unsure which file to download.
 
 Then, start the server by opening a command prompt in the folder, and run the following command.
 The application will perform a one-time setup if not already done.

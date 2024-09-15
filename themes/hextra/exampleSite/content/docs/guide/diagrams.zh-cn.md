@@ -1,7 +1,7 @@
 ---
 title: 图表
 weight: 6
-next: /docs/guide/shortcodes
+next: /docs/shortcodes
 ---
 
 目前，Hextra 支持 [Mermaid](#mermaid) 的图表。

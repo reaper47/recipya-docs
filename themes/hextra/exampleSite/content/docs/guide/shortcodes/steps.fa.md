@@ -1,6 +1,6 @@
 ---
 title: مراحل
-next: /docs/guide/deploy-site
+next: /docs/deploy-site
 ---
 
 یک کامپوننت داخلی برای نمایش یک سری مراحل.

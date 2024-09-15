@@ -12,7 +12,7 @@ URL de base et vos identifiants.
 
 ![](images/settings-integrations.webp)
 
-Comme pour les autres applications, vous pouvez le faire depuis la fonctionnalité [Add recipe → Import](/guide/fr/docs/features/recipes/add/#import).
+Comme pour les autres applications, vous pouvez le faire depuis la fonctionnalité [Add recipe → Import](/fr/docs/features/recipes/add/#import).
 
 ## Compatibilité
 
@@ -107,7 +107,7 @@ Suivez ces étapes pour importer des recettes depuis Kalorio.
 ## MasterCook
 
 Vous pouvez importer vos recettes MasterCook à partir du bouton d'importation de la page 
-[ajouter une recette](/guide/fr/docs/features/recipes/add#import). Vous pouvez soit télécharger un seul 
+[ajouter une recette](/fr/docs/features/recipes/add#import). Vous pouvez soit télécharger un seul 
 fichier `.mxp`, soit une archive zip contenant plusieurs fichiers `.mxp`.
 
 Ce [site Web](https://www.grassrootsrecipes.com/) contient d'innombrables collections de recettes MasterCook que vous pouvez essayer.

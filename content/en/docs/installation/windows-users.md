@@ -4,7 +4,7 @@ weight: 4
 next: /docs/integrations
 ---
 
-Please follow these [instructions](/guide/docs/installation/build/) to install Recipya without Docker.
+Please follow these [instructions](/docs/installation/build/) to install Recipya without Docker.
 
 ## Network-Wide Access
 

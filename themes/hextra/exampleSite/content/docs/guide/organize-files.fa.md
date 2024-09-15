@@ -1,7 +1,7 @@
 ---
 title: سازماندهی پرونده‌ها
 weight: 1
-prev: /docs/guide
+prev: /docs
 ---
 
 ## ساختار دایرکتوری
@@ -37,8 +37,8 @@ content
 │   ├── _index.md // <- /docs/
 │   ├── getting-started.md // <- /docs/getting-started/
 │   └── guide
-│       ├── _index.md // <- /docs/guide/
-│       └── organize-files.md // <- /docs/guide/organize-files/
+│       ├── _index.md // <- /docs/
+│       └── organize-files.md // <- /docs/organize-files/
 └── blog
     ├── _index.md // <- /blog/
     └── post-1.md // <- /blog/post-1/
@@ -70,7 +70,7 @@ cascade:
 
 ناوبری نوار کناری به طور خودکار براساس حروف الفبا ایجاد می‌شود. برای پیکربندی دستی ترتیب نوار کناری، می‌توانید از پارامتر `weight` در قسمت بالایی پرونده‌های مارک‌داون استفاده کنید.
 
-```yaml {filename="content/docs/guide/_index.md"}
+```yaml {filename="content/docs/_index.md"}
 ---
 title: راهنما
 weight: 2

@@ -64,7 +64,7 @@ Vous pouvez télécharger des fichiers dans les formats suivants :
 - TIFF
 
 {{< callout type="warning" >}}
-Vous devez disposer d’une instance [Azure AI Document Intelligence](/guide/fr/docs/installation/integrations#azure-AI Document Intelligence) pour utiliser cette fonctionnalité.
+Vous devez disposer d’une instance [Azure AI Document Intelligence](/fr/docs/installation/integrations#azure-AI Document Intelligence) pour utiliser cette fonctionnalité.
 {{< /callout >}}
 
 ### Site Web
@@ -110,7 +110,7 @@ Vous pouvez également télécharger des recettes exportées à partir des appli
 - RecipeSage
 - Saffron
 
-Veuillez vous référer à la [page des intégrations](/guide/fr/docs/features/integrations/) pour obtenir des instructions spécifiques à l'application.
+Veuillez vous référer à la [page des intégrations](/fr/docs/features/integrations/) pour obtenir des instructions spécifiques à l'application.
 
 #### Bookmarklet de Recipya
 

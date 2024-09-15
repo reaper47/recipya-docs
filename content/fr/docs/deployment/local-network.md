@@ -9,7 +9,7 @@ l'ordinateur sur lequel vous l'avez installé.
 
 ## Docker
 
-Après avoir [installé l'image Docker](/guide/docs/installation/docker), vous pouvez accéder à l'ensemble du réseau du site à l'adresse http://<host computer IP>:[<port>](/guide/docs/installation/build/config-file/].
+Après avoir [installé l'image Docker](/docs/installation/docker), vous pouvez accéder à l'ensemble du réseau du site à l'adresse http://<host computer IP>:[<port>](/docs/installation/build/config-file/].
 
 ## Release Build
 

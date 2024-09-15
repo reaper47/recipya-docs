@@ -42,7 +42,7 @@ The following block in the Apache configuration file is the minimum required for
 automatically obtains and renews TLS certificates for all your sites.
 
 The following block in the Caddyfile is the minimum required for hosting Recipya over the network.
-If you are on Linux, please ensure that Recipya is running as a [service](/guide/docs/deployment/local-network/#linux).
+If you are on Linux, please ensure that Recipya is running as a [service](/docs/deployment/local-network/#linux).
 
 ```text
 $ sudo cat /etc/caddy/Caddyfile

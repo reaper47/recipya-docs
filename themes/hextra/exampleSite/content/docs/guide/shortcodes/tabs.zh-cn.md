@@ -1,6 +1,6 @@
 ---
 title: 标签页
-next: /docs/guide/deploy-site
+next: /docs/deploy-site
 ---
 
 ## 示例

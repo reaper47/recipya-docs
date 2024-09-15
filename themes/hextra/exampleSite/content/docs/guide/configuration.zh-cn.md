@@ -70,7 +70,7 @@ menu:
 ### 主侧边栏
 
 主侧边栏是自动从 `content` 目录结构生成的。
-有关更多详细信息，转至 [目录结构](/docs/guide/organize-files)。
+有关更多详细信息，转至 [目录结构](/docs/organize-files)。
 
 ### 额外链接
 
@@ -97,7 +97,7 @@ menu:
 
 目录是根据内容文件中的标题自动生成的，可以在 `front matter` 设置 `toc：false` 来禁用它。
 
-```yaml {filename="content/docs/guide/configuration.md"}
+```yaml {filename="content/docs/configuration.md"}
 ---
 title: Configuration
 toc: false
@@ -116,7 +116,7 @@ params:
 将为每个页面自动生成编辑链接。
 如需为特定页面设置编辑链接，可以在页面的 `front matter` 中设置 `editURL`：
 
-```yaml {filename="content/docs/guide/configuration.md"}
+```yaml {filename="content/docs/configuration.md"}
 ---
 title: Configuration
 editURL: "https://example.com/edit/this/page"
@@ -240,7 +240,7 @@ params:
 
 要从搜索索引中排除页面，更改 front matter 中的 `excludeSearch: true`:
 
-```yaml {filename="content/docs/guide/configuration.md"}
+```yaml {filename="content/docs/configuration.md"}
 ---
 title: Configuration
 excludeSearch: true

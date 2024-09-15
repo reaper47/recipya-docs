@@ -1,7 +1,7 @@
 ---
 title: شروع کنید
 weight: 1
-next: /docs/guide
+next: /docs
 prev: /docs
 ---
 
@@ -13,7 +13,7 @@ prev: /docs
 
 <img src="https://docs.github.com/assets/cb-77734/mw-1440/images/help/repository/use-this-template-button.webp" width="500">
 
-ما یک [گردش کاری GitHub Actions](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#publishing-with-a-custom-github-actions-workflow) ارائه کرده‌ایم که می‌تواند به ساخت و به‌کاراندازی خودکار سایت شما در گیت‌هاب Pages، برای میزبانی رایگان کمک کند. برای گزینه‌های بیشتر، [به‌کاراندازی سایت](../guide/deploy-site) را بررسی کنید.
+ما یک [گردش کاری GitHub Actions](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#publishing-with-a-custom-github-actions-workflow) ارائه کرده‌ایم که می‌تواند به ساخت و به‌کاراندازی خودکار سایت شما در گیت‌هاب Pages، برای میزبانی رایگان کمک کند. برای گزینه‌های بیشتر، [به‌کاراندازی سایت](../deploy-site) را بررسی کنید.
 
 [🌐 نسخه‌ي نمایشی ↖](https://imfing.github.io/hextra-starter-template/)
 
@@ -184,7 +184,7 @@ git submodule update --remote themes/hextra
 برای شروع اضافه کردن مطالب بیشتر، بخش‌های زیر را کاوش کنید:
 
 {{< cards >}}
-  {{< card link="../guide/organize-files" title="سازماندهی پرونده‌ها" icon="document-duplicate" >}}
-  {{< card link="../guide/configuration" title="پیکربندی" icon="adjustments" >}}
-  {{< card link="../guide/markdown" title="مارک‌داون" icon="markdown" >}}
+  {{< card link="../organize-files" title="سازماندهی پرونده‌ها" icon="document-duplicate" >}}
+  {{< card link="../configuration" title="پیکربندی" icon="adjustments" >}}
+  {{< card link="../markdown" title="مارک‌داون" icon="markdown" >}}
 {{< /cards >}}

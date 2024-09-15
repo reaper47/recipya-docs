@@ -1,7 +1,7 @@
 ---
 title: 目录结构
 weight: 1
-prev: /docs/guide
+prev: /docs
 ---
 
 ## 目录结构
@@ -38,8 +38,8 @@ content
 │   ├── _index.md // <- /docs/
 │   ├── getting-started.md // <- /docs/getting-started/
 │   └── guide
-│       ├── _index.md // <- /docs/guide/
-│       └── organize-files.md // <- /docs/guide/organize-files/
+│       ├── _index.md // <- /docs/
+│       └── organize-files.md // <- /docs/organize-files/
 └── blog
     ├── _index.md // <- /blog/
     └── post-1.md // <- /blog/post-1/
@@ -49,7 +49,7 @@ content
 
 侧边栏导航是根据内容组织的字母顺序自动生成的。要手动配置侧边栏顺序，可以在 Markdown 文件的 `frontmatter ` 中使用 `weight` 配置。
 
-```yaml {filename="content/docs/guide/_index.md"}
+```yaml {filename="content/docs/_index.md"}
 ---
 title: Guide
 weight: 2

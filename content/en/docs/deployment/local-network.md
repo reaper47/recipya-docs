@@ -9,7 +9,7 @@ you installed the application on.
 
 ## Docker
 
-After [installing the Docker](/guide/docs/installation/docker) image, you can access the site network wide at http://<host computer IP>:[<port>](/guide/docs/installation/build/config-file/].
+After [installing the Docker](/docs/installation/docker) image, you can access the site network wide at http://<host computer IP>:[<port>](/docs/installation/build/config-file/].
 
 ## Release Build
 

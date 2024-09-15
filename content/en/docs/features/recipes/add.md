@@ -64,7 +64,7 @@ You can upload files in the following formats:
 - TIFF
 
 {{< callout type="warning" >}}
-You must have an [Azure AI Document Intelligence](/guide/docs/installation/integrations#azure-AI Document Intelligence) instance to use this feature.
+You must have an [Azure AI Document Intelligence](/docs/installation/integrations#azure-AI Document Intelligence) instance to use this feature.
 {{< /callout >}}
 
 ### Website
@@ -110,7 +110,7 @@ You may also upload exported recipes from the following applications:
 - RecipeSage
 - Saffron
 
-Please refer to the [integrations page](/guide/docs/features/integrations/) for application-specific instructions.
+Please refer to the [integrations page](/docs/features/integrations/) for application-specific instructions.
 
 #### Recipya Bookmarklet
 

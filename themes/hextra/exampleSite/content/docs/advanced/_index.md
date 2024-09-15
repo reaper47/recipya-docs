@@ -1,7 +1,7 @@
 ---
 linkTitle: Advanced
 title: Advanced Topics
-prev: /docs/guide/shortcodes/tabs
+prev: /docs/shortcodes/tabs
 next: /docs/advanced/multi-language
 ---
 

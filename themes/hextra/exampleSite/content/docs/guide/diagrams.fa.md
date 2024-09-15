@@ -1,7 +1,7 @@
 ---
 title: نمودارها
 weight: 6
-next: /docs/guide/shortcodes
+next: /docs/shortcodes
 ---
 
 در حال حاضر، هگزترا از [Mermaid](#mermaid) برای نمودارها پشتیبانی می‌کند.

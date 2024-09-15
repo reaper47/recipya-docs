@@ -24,7 +24,7 @@ artificielle qui applique l'apprentissage automatique avancé pour extraire auto
 des tableaux et des structures à partir de documents. Microsoft offre un [plan gratuit](https://azure.microsoft.com/en-us/pricing/details/ai-document-intelligence/)
 (F0) qui vous permet d'effectuer jusqu'à 500 transactions gratuites par mois.
 
-Au sein de Recipya, ce service est utilisé pour [numériser des recettes](/guide/fr/docs/features/recipes/add#scan).
+Au sein de Recipya, ce service est utilisé pour [numériser des recettes](/fr/docs/features/recipes/add#scan).
 
 Si vous ne prévoyez pas de numériser des recettes, laissez les champs `integrations.azureDocumentIntelligence.key` et `integrations.azureDocumentIntelligence.endpoint`
 dans le [fichier de configuration](https://github.com/reaper47/recipya/blob/main/deploy/config.example.json) vide.

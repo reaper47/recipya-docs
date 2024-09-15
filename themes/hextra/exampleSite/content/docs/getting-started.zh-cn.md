@@ -1,7 +1,7 @@
 ---
 title: 快速开始
 weight: 1
-next: /docs/guide
+next: /docs
 prev: /docs
 ---
 
@@ -136,7 +136,7 @@ hugo mod get -u github.com/imfing/hextra
 探索这些文档以便添加更多内容：
 
 {{< cards >}}
-  {{< card link="../guide/organize-files" title="Organize Files" icon="document-duplicate" >}}
-  {{< card link="../guide/configuration" title="Configuration" icon="adjustments" >}}
-  {{< card link="../guide/markdown" title="Markdown" icon="markdown" >}}
+  {{< card link="../organize-files" title="Organize Files" icon="document-duplicate" >}}
+  {{< card link="../configuration" title="Configuration" icon="adjustments" >}}
+  {{< card link="../markdown" title="Markdown" icon="markdown" >}}
 {{< /cards >}}

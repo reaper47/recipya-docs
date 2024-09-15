@@ -1,7 +1,7 @@
 ---
 linkTitle: 高级配置
 title: 高级配置
-prev: /docs/guide/shortcodes/tabs
+prev: /docs/shortcodes/tabs
 next: /docs/advanced/multi-language
 ---
 

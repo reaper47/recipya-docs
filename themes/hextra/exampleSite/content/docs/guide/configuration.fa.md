@@ -88,11 +88,11 @@ params:
 ### نوار کناری اصلی
 
 برای نوار کناری اصلی، به طور خودکار از ساختار دایرکتوری محتوا تولید می‌شود.
- برای جزئیات بیشتر به صفحه [سازماندهی پرونده‌ها](/fa/docs/guide/organize-files) مراجعه کنید.
+ برای جزئیات بیشتر به صفحه [سازماندهی پرونده‌ها](/fa/docs/organize-files) مراجعه کنید.
 
 برای حذف یک صفحه از نوار کناری سمت راست، پارامتر`sidebar.exclude` را در قسمت بالایی صفحه تنظیم کنید:
 
-```yaml {filename="content/docs/guide/configuration.md"}
+```yaml {filename="content/docs/configuration.md"}
 ---
 title: پیکربندی
 sidebar:
@@ -125,7 +125,7 @@ menu:
 
 فهرست مطالب به طور خودکار از سرتیرهای موجود در پرونده محتوا تولید می‌شود. می‌توان آن را با تنظیم `toc: false` در قسمت بالایی صفحه غیرفعال کرد.
 
-```yaml {filename="content/docs/guide/configuration.md"}
+```yaml {filename="content/docs/configuration.md"}
 ---
 title: پیکربندی
 toc: false
@@ -146,7 +146,7 @@ params:
 پیوندهای ویرایش به طور خودکار برای هر صفحه براساس نشانی اینترنتی ارائه شده به عنوان دایرکتوری ریشه ایجاد می‌شود.
  اگر می‌خواهید پیوند ویرایش را برای یک صفحه خاص تنظیم کنید، می‌توانید پارامتر `editURL` را در قسمت بالای صفحه تنظیم کنید:
 
-```yaml {filename="content/docs/guide/configuration.md"}
+```yaml {filename="content/docs/configuration.md"}
 ---
 title: پیکربندی
 editURL: "https://example.com/edit/this/page"
@@ -253,7 +253,7 @@ params:
 
 برای حذف یک صفحه از فهرست جستجو، `excludeSearch: true` را در قسمت بالای صفحه تنظیم کنید:
 
-```yaml {filename="content/docs/guide/configuration.md"}
+```yaml {filename="content/docs/configuration.md"}
 ---
 title: پیکربندی
 excludeSearch: true

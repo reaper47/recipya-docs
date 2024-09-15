@@ -66,7 +66,7 @@ Hugo از سینتکس [مارک‌داون](https://en.wikipedia.org/wiki/Markd
 ### بلوک‌های کد
 
 {{< cards >}}
-  {{< card link="../../guide/syntax-highlighting" title="برجسته‌کردن سینتکس" icon="sparkles" >}}
+  {{< card link="../../syntax-highlighting" title="برجسته‌کردن سینتکس" icon="sparkles" >}}
 {{< /cards >}}
 
 ### فهرست‌ها

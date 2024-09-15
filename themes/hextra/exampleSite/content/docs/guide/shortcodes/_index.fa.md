@@ -1,8 +1,8 @@
 ---
 title: کدهای کوتاه
 weight: 9
-prev: /docs/guide/diagrams
-next: /docs/guide/shortcodes/filetree
+prev: /docs/diagrams
+next: /docs/shortcodes/filetree
 ---
 
 [کدهای کوتاه Hugo](https://gohugo.io/content-management/shortcodes/) قطعه‌های ساده‌ای در داخل پرونده‌های محتوای شما هستند که قالب‌های داخلی یا سفارشی را فراخوانی می‌کنند.

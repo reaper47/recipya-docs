@@ -1,7 +1,7 @@
 ---
 title: Organize Files
 weight: 1
-prev: /docs/guide
+prev: /docs
 ---
 
 ## Directory Structure
@@ -38,8 +38,8 @@ content
 │   ├── _index.md // <- /docs/
 │   ├── getting-started.md // <- /docs/getting-started/
 │   └── guide
-│       ├── _index.md // <- /docs/guide/
-│       └── organize-files.md // <- /docs/guide/organize-files/
+│       ├── _index.md // <- /docs/
+│       └── organize-files.md // <- /docs/organize-files/
 └── blog
     ├── _index.md // <- /blog/
     └── post-1.md // <- /blog/post-1/
@@ -71,7 +71,7 @@ The above example configuration ensures that the content files inside `content/m
 
 The sidebar navigation is generated automatically based on the content organization alphabetically. To manually configure the sidebar order, we can use the `weight` parameter in the front matter of the Markdown files.
 
-```yaml {filename="content/docs/guide/_index.md"}
+```yaml {filename="content/docs/_index.md"}
 ---
 title: Guide
 weight: 2
@@ -86,7 +86,7 @@ weight: 2
 
 Breadcrumbs are auto-generated based on the directory structure of `/content`.
 
-For example, consider the file structure [demonstrated above](#directory-structure). Given that structure, the breadcrumbs atop the page at `/docs/guide/organize-files/` would appear automatically as follows:
+For example, consider the file structure [demonstrated above](#directory-structure). Given that structure, the breadcrumbs atop the page at `/docs/organize-files/` would appear automatically as follows:
 
 ```
 Documentation > Guide > Organize Files
@@ -98,7 +98,7 @@ By default, each breadcrumb link is generated based on that page's `title` param
 
 For example, if instead of `Organize Files` we wanted the breadcrumb to be `Foo Bar`:
 
-```yaml {filename="content/docs/guide/organize-files.md"}
+```yaml {filename="content/docs/organize-files.md"}
 ---
 linkTitle: Foo Bar
 title: Organize Files
@@ -114,7 +114,7 @@ Documentation > Guide > Foo Bar
 
 You can hide breadcrumbs completely from a page by specfying `breadcrumbs: false` in its front matter:
 
-```yaml {filename="content/docs/guide/organize-files.md"}
+```yaml {filename="content/docs/organize-files.md"}
 ---
 breadcrumbs: false
 title: Organize Files

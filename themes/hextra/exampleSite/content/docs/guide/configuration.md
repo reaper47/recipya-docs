@@ -88,11 +88,11 @@ params:
 ### Main Sidebar
 
 For the main sidebar, it is automatically generated from the structure of the content directory.
-See the [Organize Files](/docs/guide/organize-files) page for more details.
+See the [Organize Files](/docs/organize-files) page for more details.
 
 To exclude a single page from the left sidebar, set the `sidebar.exclude` parameter in the front matter of the page:
 
-```yaml {filename="content/docs/guide/configuration.md"}
+```yaml {filename="content/docs/configuration.md"}
 ---
 title: Configuration
 sidebar:
@@ -125,7 +125,7 @@ menu:
 
 Table of contents is automatically generated from the headings in the content file. It can be disabled by setting `toc: false` in the front matter of the page.
 
-```yaml {filename="content/docs/guide/configuration.md"}
+```yaml {filename="content/docs/configuration.md"}
 ---
 title: Configuration
 toc: false
@@ -146,7 +146,7 @@ params:
 The edit links will be automatically generated for each page based on the provided url as root directory.
 If you want to set edit link for a specific page, you can set the `editURL` parameter in the front matter of the page:
 
-```yaml {filename="content/docs/guide/configuration.md"}
+```yaml {filename="content/docs/configuration.md"}
 ---
 title: Configuration
 editURL: "https://example.com/edit/this/page"
@@ -270,7 +270,7 @@ Options for [`flexsearch.tokenize`](https://github.com/nextapps-de/flexsearch/#t
 
 To exclude a page from the search index, set the `excludeSearch: true` in the front matter of the page:
 
-```yaml {filename="content/docs/guide/configuration.md"}
+```yaml {filename="content/docs/configuration.md"}
 ---
 title: Configuration
 excludeSearch: true

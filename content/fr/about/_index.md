@@ -23,7 +23,7 @@ Il est axé sur la simplicité pour que toute la famille puisse en profiter.
 
 ## Mise en route
 
-Les instructions d'installation sont écrites dans la [section installation](/guide/fr/docs/installation/) de la documentation.
+Les instructions d'installation sont écrites dans la [section installation](/fr/docs/installation/) de la documentation.
 
 ## Contribution
 

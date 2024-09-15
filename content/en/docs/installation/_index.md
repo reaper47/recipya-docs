@@ -8,7 +8,7 @@ prev: /docs/features/integrations
 Learn how install Recipya.
 
 {{< cards >}}
-    {{< card link="/guide/docs/installation/system-requirements/"
+    {{< card link="/docs/installation/system-requirements/"
             title="Prerequisites"
             icon="newspaper"
             subtitle="Discover what the system requirements are." >}}
@@ -16,15 +16,15 @@ Learn how install Recipya.
             title="Configuration File"
             subtitle="Explore the configuration file."
             icon="newspaper" >}}
-    {{< card link="/guide/docs/installation/docker/"
+    {{< card link="/docs/installation/docker/"
             title="Docker"
             subtitle="Install the application with Docker."
             icon="newspaper" >}}
-    {{< card link="/guide/docs/installation/build/"
+    {{< card link="/docs/installation/build/"
             title="Release Build"
             subtitle="Install a release build of the application."
             icon="newspaper" >}}
-    {{< card link="/guide/docs/installation/windows-users/"
+    {{< card link="/docs/installation/windows-users/"
             title="Windows users"
             subtitle="Important information for Windows users."
             icon="newspaper" >}}

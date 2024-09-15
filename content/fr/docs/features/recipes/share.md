@@ -5,7 +5,7 @@ weight: 6
 
 Une recette peut être partagée avec toute personne disposant du lien de partage.
 
-Pour générer le lien, vous devez d'abord [afficher une recette](/guide/fr/docs/features/recipes/view). 
+Pour générer le lien, vous devez d'abord [afficher une recette](/fr/docs/features/recipes/view). 
 Ensuite, cliquez sur l'icône de partage à droite du titre de la recette.
 
 ![](images/sharing-icon.webp)

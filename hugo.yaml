@@ -22,7 +22,7 @@ languages:
         - name: Open App
           params:
             rel: external
-          url: /login
+          url: https://recipya-app.musicavis.ca
           weight: 1
         - identifier: documentation
           name: Documentation
@@ -63,7 +63,7 @@ languages:
         - name: Ouvrir l'application
           params:
             rel: external
-          url: /login
+          url: https://recipya-app.musicavis.ca
           weight: 1
         - identifier: documentation
           name: Documentation
@@ -151,7 +151,7 @@ menu:
     - name: Open App
       params:
         rel: external
-      url: /login
+      url: https://recipya-app.musicavis.ca
       weight: 1
     - identifier: documentation
       name: Documentation

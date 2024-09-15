@@ -1,8 +1,8 @@
 ---
 title: کامپوننت FileTree
 linkTitle: FileTree
-prev: /docs/guide/shortcodes
-next: /docs/guide/shortcodes/icon
+prev: /docs/shortcodes
+next: /docs/shortcodes/icon
 ---
 
 ## مثال

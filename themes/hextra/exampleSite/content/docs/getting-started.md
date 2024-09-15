@@ -1,7 +1,7 @@
 ---
 title: Getting Started
 weight: 1
-next: /docs/guide
+next: /docs
 prev: /docs
 ---
 
@@ -14,7 +14,7 @@ You could quickly get started by using the above template repository.
 <img src="https://docs.github.com/assets/cb-77734/mw-1440/images/help/repository/use-this-template-button.webp" width="500">
 
 We have provided a [GitHub Actions workflow](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#publishing-with-a-custom-github-actions-workflow) which can help automatically build and deploy your site to GitHub Pages, and host it for free.
-For more options, check out [Deploy Site](../guide/deploy-site).
+For more options, check out [Deploy Site](../deploy-site).
 
 [🌐 Demo ↗](https://imfing.github.io/hextra-starter-template/)
 
@@ -186,7 +186,7 @@ See [Git submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules) for mo
 Explore the following sections to start adding more contents:
 
 {{< cards >}}
-  {{< card link="../guide/organize-files" title="Organize Files" icon="document-duplicate" >}}
-  {{< card link="../guide/configuration" title="Configuration" icon="adjustments" >}}
-  {{< card link="../guide/markdown" title="Markdown" icon="markdown" >}}
+  {{< card link="../organize-files" title="Organize Files" icon="document-duplicate" >}}
+  {{< card link="../configuration" title="Configuration" icon="adjustments" >}}
+  {{< card link="../markdown" title="Markdown" icon="markdown" >}}
 {{< /cards >}}
