@@ -86,10 +86,6 @@ Allow sharing to different apps the user has installed.
 Offer other OCR engines other than Azure Document Intelligence.
 [Issue](https://github.com/reaper47/recipya/issues/359)
 
-**Ability to Bypass Guide**
-Add an option (Settings -> Server) to bypass the Guide and go straight to login page.
-[Issue](https://github.com/reaper47/recipya/issues/372)
-
 **Extract multiple images when adding recipe via URL**
 Extract all images from the URL.
 [Issue](https://github.com/reaper47/recipya/issues/374)
