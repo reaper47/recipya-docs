@@ -10,7 +10,7 @@ This chapter serves as the developer's guide to building Recipya.
 Run the following command to get the code.
 
 ```bash
-git clone --recurse-submodules https://github.com/reaper47/recipya.git
+git clone https://github.com/reaper47/recipya.git
 ```
 
 ## Dependencies

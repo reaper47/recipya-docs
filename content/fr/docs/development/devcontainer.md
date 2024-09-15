@@ -16,7 +16,7 @@ First follow the [vsccode](https://code.visualstudio.com/docs/devcontainers/cont
 
 Then, clone the Recipya repository.
 ```bash
-git clone --recurse-submodules https://github.com/reaper47/recipya.git
+git clone https://github.com/reaper47/recipya.git
 ```
 
 Finally, open the folder in a container by following these [steps](https://code.visualstudio.com/docs/devcontainers/containers#_quick-start-open-an-existing-folder-in-a-container).
