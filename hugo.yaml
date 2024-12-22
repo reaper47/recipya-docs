@@ -113,7 +113,7 @@ params:
 
   editURL:
     enable: true
-    base: "https://github.com/reaper47/recipya/edit/main/docs/website/content"
+    base: "https://github.com/reaper47/recipya-docs/edit/main/content"
 
 
   blog:
