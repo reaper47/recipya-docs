@@ -82,12 +82,8 @@ server {
         proxy_set_header X-Forwarded-Proto $scheme;
     }
     
-    location ~* /static/ {
-        add_header Cache-Control "public, max-age=2678400, must-revalidate";
-    }
-    
     location /ws {
-        proxy_pass http://127.0.0.1:8125;
+        proxy_pass http://127.0.0.1:<port>;
         proxy_http_version 1.1;
         proxy_set_header Upgrade $http_upgrade;
         proxy_set_header Connection "Upgrade";
