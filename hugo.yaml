@@ -115,7 +115,6 @@ params:
     enable: true
     base: "https://github.com/reaper47/recipya-docs/edit/main/content"
 
-
   blog:
     list:
       displayTags: true
