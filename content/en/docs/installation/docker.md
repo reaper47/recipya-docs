@@ -25,7 +25,7 @@ docker run -d \
   --name recipya
   --restart unless-stopped
   -p 8085:8078 \
-  -v recipya-data:/root/.config/Recipya \
+  -v recipya-data:/home/recipya/.config/Recipya \
   -e RECIPYA_SERVER_PORT=8078 \
   reaper99/recipya:nightly
 ```
@@ -51,7 +51,7 @@ docker run -d \
   --name recipya
   --restart unless-stopped
   -p 8085:8078 \
-  -v /shared/path/here:/root/.config/Recipya/:rw \
+  -v /shared/path/here:/home/recipya/.config/Recipya/:rw \
   -e RECIPYA_SERVER_PORT=8078 \
   reaper99/recipya:nightly
 ```
@@ -115,7 +115,7 @@ If you use Docker Desktop, then
 
 Otherwise, run to following command:
 ```bash
-docker run --rm --volumes-from recipya -v $(pwd):/backup ubuntu tar cvf /backup/recipya-volume-backup.tar /root/.config/Recipya
+docker run --rm --volumes-from recipya -v $(pwd):/backup ubuntu tar cvf /backup/recipya-volume-backup.tar /home/recipya/.config/Recipya
 ```
 
 ## Restore Volume from Backup
