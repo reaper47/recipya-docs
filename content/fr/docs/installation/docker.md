@@ -96,6 +96,11 @@ docker compose up -d
 | RECIPYA_SERVER_PORT         | Le port via lequel l'application sera servie si localhost.<br>**Est requis**.                                                                                                                                                                                       |
 | RECIPYA_SERVER_URL          | Le site Web sur lequel l'application est diffusée. Cette URL servira de lien de base dans les e-mails.<br>Par défaut: `http://0.0.0.0`.                                                                                                                             |
 
+### RECIPYA_SERVER_AUTOLOGIN
+
+Si plusieurs comptes ont été créés et que la connexion automatique est définie, l'application se connectera en tant que le premier utilisateur.
+Le premier utilisateur est également l'administrateur.
+
 ## Sauvegarder un volume
 
 Il est d'une importance vitale de sauvegarder vos données de volume avant de mettre à jour le logiciel au cas où quelque chose tournerait mal et que vous perdriez votre base de données.
