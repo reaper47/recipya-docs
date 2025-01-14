@@ -16,10 +16,10 @@ L'administrateur peut modifier la plupart de ces options à partir des paramètr
   - **sendGridAPIKey**: Votre clé API [SendGrid](https://app.sendgrid.com/settings/api_keys). Le niveau gratuit devrait être suffisant pour vos besoins. Défaut: `""`.
 - **integrations**
   - **azureDocumentIntelligence**
-    - **key**: La variable *CLÉ 1* affiché dans l'onglet *Clés et point de terminaison* de votre ressource [Azure AI Document Intelligence](https://azure.microsoft.com/en-us/products/ai-services/ai-document-intelligence) dans le [portail Azure](https://portal.azure.com/#home). Défaut:      `""`.
+    - **key**: La variable *CLÉ 1* affiché dans l'onglet *Clés et point de terminaison* de votre ressource [Azure AI Document Intelligence](https://azure.microsoft.com/en-us/products/ai-services/ai-document-intelligence) dans le [portail Azure](https://portal.azure.com/#home). Défaut: `""`.
     - **endpoint**: La variable *Endpoint* affichée dans l'onglet *Clés et point de terminaison* de votre ressource *Document Intelligence* dans le portail Azure. Défaut: `""`.
 - **server** 
-  - **autologin**: S'il faut se connecter automatiquement à l'application. Utile lorsque vous n'avez pas besoin de comptes d'utilisateurs. Peut être `true` ou `false`. Défault: `false`.
+  - **autologin**: S'il faut se connecter automatiquement à l'application. Utile lorsque vous n'avez pas besoin de comptes d'utilisateurs. Si plusieurs comptes ont été créés et que la connexion automatique est définie, l'application se connectera en tant que le premier utilisateur. Le premier utilisateur est également l'administrateur. Peut être `true` ou `false`. Défault: `false`.
   - **isDemo**: Si l’application est une version démo. Peut être `true` ou `false`. Défault: `false`.
   - **isProduction**: Si l'application est en production. Peut être `true` ou `false`. Défault: `false`.
   - **noSignups**: S'il faut désactiver les enregistrements de comptes utilisateur. Définissez sur `true` lorsque vous ne souhaitez pas que les gens créent des comptes. Défault: `false`.
