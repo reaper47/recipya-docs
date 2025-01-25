@@ -41,6 +41,11 @@ Suivez ces étapes pour utiliser cette intégration:
 6. Copiez *Endpoint* dans le champ correspondant dans les paramètres de Recipya. Vous pouvez également le copier dans le champ **integrations.azureDocumentIntelligence.endpoint** de votre fichier de configuration ou dans la variable d'environnement `RECIPYA_DI_ENDPOINT` si vous utilisez Docker.
 7. Redémarrez Recipya et testez la connexion *Azure AI Document Intelligence* à partir des paramètres.
 
+Vous devriez avoir une configuration similaire à la suivante :
+![](images/azure-di-1.webp)
+
+![](images/azure-di-2.webp)
+
 ### Limitations
 
 - Pour les PDF et TIFF, jusqu'à 2000 pages peuvent être traitées (avec un abonnement gratuit, seules les deux premières pages sont traitées).
