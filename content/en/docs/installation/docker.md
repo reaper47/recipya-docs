@@ -15,7 +15,7 @@ You can either install the application using [Docker](https://www.docker.com/) o
 You first have to fetch it.
 
 ```bash
-docker pull reaper99/recipya:nightly
+docker pull reaper99/recipya:v1.2.2
 ```
 
 Then, run the image. The `-e` environment variables are described below.
@@ -27,7 +27,7 @@ docker run -d \
   -p 8085:8078 \
   -v recipya-data:/home/recipya/.config/Recipya \
   -e RECIPYA_SERVER_PORT=8078 \
-  reaper99/recipya:nightly
+  reaper99/recipya:v1.2.2
 ```
 
 Recipya can be accessed from your host machine at [http://localhost:8085](http://localhost:8085).
@@ -53,7 +53,7 @@ docker run -d \
   -p 8085:8078 \
   -v /shared/path/here:/home/recipya/.config/Recipya/:rw \
   -e RECIPYA_SERVER_PORT=8078 \
-  reaper99/recipya:nightly
+  reaper99/recipya:v1.2.2
 ```
 
 ## Using Docker Compose
