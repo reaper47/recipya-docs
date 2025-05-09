@@ -31,7 +31,7 @@ As for the other applications, you can do so from the [Add recipe → Import](/d
  | [Saffron](https://www.mysaffronapp.com)                                | {{< icon "check" >}} |   Add recipe → Import    |
  | [Tandoor](https://tandoor.dev)                                         | {{< icon "check" >}} | Settings → Data → Import |
 
-## Application-specific instructions.
+## Application-specific instructions
 
 ### AccuChef
 
@@ -73,7 +73,7 @@ Follow these steps to import your recipes from Easy Recipe Deluxe:
 4. Select the exported `.txt` file.
 5. Click `Submit`.
 
-## ChefTap
+### ChefTap
 
 Follow these steps to import your recipes from ChefTap:
 
@@ -83,7 +83,7 @@ Follow these steps to import your recipes from ChefTap:
 4. Select the exported `.zip` file.
 5. Click `Submit`.
 
-## Easy Recipe Deluxe
+### Easy Recipe Deluxe
 
 Follow these steps to import your recipes from Easy Recipe Deluxe:
 
@@ -103,7 +103,7 @@ Follow these steps to import recipes from Kalorio.
 4. Select the exported file.
 5. Click `Submit`.
 
-## MasterCook
+### MasterCook
 
 You can import your MasterCook recipes from the import button on the
 [add recipe page](/docs/features/recipes/add#import). You can either upload a single `.mxp` file or a zip archive
@@ -120,7 +120,7 @@ Follow these steps to import your recipes from a Mealie instance:
 3. In the dialog that appears, enter the URL and credentials of a Mealie instance.
 4. Click the **Import** button.
 
-## Nextcloud Cookbook
+### Nextcloud Cookbook
 
 [Nextcloud Cookbook](https://github.com/nextcloud/cookbook) is an app for [Nextcloud](https://nextcloud.com/).
 Follow these steps to import your recipes from a Nextcloud Cookbook instance:
